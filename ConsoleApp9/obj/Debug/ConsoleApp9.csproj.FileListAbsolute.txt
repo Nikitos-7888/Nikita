@@ -1,0 +1,7 @@
+D:\Reps\Nikita\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+D:\Reps\Nikita\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+D:\Reps\Nikita\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+D:\Reps\Nikita\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.AssemblyReference.cache
+D:\Reps\Nikita\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
+D:\Reps\Nikita\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+D:\Reps\Nikita\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
