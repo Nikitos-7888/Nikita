@@ -1,0 +1,7 @@
+D:\Reps\Nikita\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+D:\Reps\Nikita\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+D:\Reps\Nikita\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+D:\Reps\Nikita\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.AssemblyReference.cache
+D:\Reps\Nikita\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
+D:\Reps\Nikita\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+D:\Reps\Nikita\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
